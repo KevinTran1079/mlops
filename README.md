@@ -2,6 +2,14 @@
 
 The purpose of the repository is to develop skills needed to deploy machine learning algorithms and models into production.
 
+I will be training various models and exposing the api for prediction or generation.
+
+Statistical models could include Boosting (AdaBoost, GB, XGB),PCA, SVM, Logistic Regression, MLPs (Multi Layer Perceptrons), KNN, K Means Clustering and various other methods learned in my undergraduate education.
+
+Generative Models include Autoencoders, Variational Autoencoders, GANs (condgan, info gan, or pix2pix), Diffusion, LSTM, Transformers, LLMs and more depending on the computational power available to me.
+
+# Technologies
+
 - FastApi
 - Docker
 - Kubernetes (K8s) for scaling
