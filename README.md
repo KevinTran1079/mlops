@@ -17,11 +17,11 @@ The purpose of the repository is to develop skills needed to deploy machine lear
 - Manage deployment with Kubernetes
 - Set up CI/CD pipelines for automated deployment
 
-# README below here is generated with AI.
-
 # Bank Note Authentication API
 
 This is a containerized FastAPI application that predicts whether a bank note is real or fake using a trained random forest.
+
+# README below here is generated with AI.
 
 ## Project Structure
 
