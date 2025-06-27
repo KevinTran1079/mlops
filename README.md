@@ -49,8 +49,8 @@ This is a containerized FastAPI application that predicts whether a bank note is
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/banknote-api.git
-cd banknote-api
+git clone https://github.com/KevinTran1079/mlops.git
+cd mlops
 ```
 
 ### 2. Install Dependencies (for local dev)
